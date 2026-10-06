@@ -5,9 +5,9 @@
 Turn every new tab into a personal clock deck: choose an analog, digital, LED or split-flap display, check the sky above you, and keep the time zones you care about close.
 
 <p align="center">
-  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/downloads/release-1.0.0/release/kalikaalam-chrome-1.0.0.zip"><strong>⬇ Download for Chrome / Edge / Brave</strong></a>
+  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-chrome-1.0.0.zip"><strong>⬇ Download for Chrome / Edge / Brave</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/downloads/release-1.0.0/release/kalikaalam-firefox-1.0.0.zip"><strong>⬇ Download for Firefox</strong></a>
+  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-firefox-1.0.0.zip"><strong>⬇ Download for Firefox</strong></a>
 </p>
 
 <p align="center"><sub>Version 1.0.0 · Free download · No account required</sub></p>
@@ -40,7 +40,7 @@ Turn every new tab into a personal clock deck: choose an analog, digital, LED or
 
 ### Chrome, Edge, Brave and other Chromium browsers
 
-1. Download the [Chromium ZIP](https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/downloads/release-1.0.0/release/kalikaalam-chrome-1.0.0.zip) and extract it.
+1. Download the [Chromium ZIP](https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-chrome-1.0.0.zip) and extract it.
 2. Open your browser's extensions page (`chrome://extensions`, `edge://extensions`, or `brave://extensions`).
 3. Turn on **Developer mode**.
 4. Select **Load unpacked** and choose the extracted folder containing `manifest.json`.
@@ -48,7 +48,7 @@ Turn every new tab into a personal clock deck: choose an analog, digital, LED or
 
 ### Firefox
 
-1. Download and extract the [Firefox ZIP](https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/downloads/release-1.0.0/release/kalikaalam-firefox-1.0.0.zip).
+1. Download and extract the [Firefox ZIP](https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-firefox-1.0.0.zip).
 2. Open `about:debugging#/runtime/this-firefox`.
 3. Select **Load Temporary Add-on…** and choose `manifest.json` from the extracted folder.
 
@@ -67,7 +67,7 @@ Read the [privacy policy](PRIVACY.md).
 
 ## Releases
 
-Current release: **1.0.0**. Download the browser-specific ZIP above, or browse the [release downloads](https://github.com/MohanKrishna-RC/KaliKaalam/tree/downloads/release-1.0.0/release).
+Current release: **1.0.0**. Download the browser-specific ZIP above, or browse the [release downloads](https://github.com/MohanKrishna-RC/KaliKaalam/tree/main/release).
 
 ## Feedback
 
