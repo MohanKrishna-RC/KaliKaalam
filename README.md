@@ -1,8 +1,8 @@
-# Kalikaalam — NovaGenesis
+# KaliKaalam — NovaGenesis
 
-### A new tab that tells time beautifully.
+### Your personal clock, one click away.
 
-Turn every new tab into a personal clock deck: choose an analog, digital, LED or split-flap display, check the sky above you, and keep the time zones you care about close.
+Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog, digital, LED and split-flap displays, astronomy, focus tools and world clocks. It leaves your browser's New Tab page exactly as you set it.
 
 <p align="center">
   <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-chrome-1.0.0.zip"><strong>⬇ Download for Chrome / Edge / Brave</strong></a>
@@ -12,7 +12,7 @@ Turn every new tab into a personal clock deck: choose an analog, digital, LED or
 
 <p align="center"><sub>Version 1.0.0 · Free download · No account required</sub></p>
 
-![Kalikaalam clock dashboard](store/01-hero.png)
+![KaliKaalam clock dashboard](store/01-hero.png)
 
 ## Make time your own
 
@@ -44,7 +44,7 @@ Turn every new tab into a personal clock deck: choose an analog, digital, LED or
 2. Open your browser's extensions page (`chrome://extensions`, `edge://extensions`, or `brave://extensions`).
 3. Turn on **Developer mode**.
 4. Select **Load unpacked** and choose the extracted folder containing `manifest.json`.
-5. Open a new tab to see Kalikaalam.
+5. Pin the KaliKaalam toolbar icon if you like, then click it and choose **Open KaliKaalam**. Your normal New Tab page remains unchanged.
 
 ### Firefox
 
