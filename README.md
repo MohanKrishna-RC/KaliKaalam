@@ -16,11 +16,15 @@ Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog,
 
 ## Make time your own
 
-- **Four clock faces:** analog, digital, seven-segment LED and animated split-flap.
+- **Four clock styles:** detailed analog, digital cards, glowing LED digits and an animated split-flap display.
+- **Your own analog dial:** choose an image as the clock face, then keep the clock hands and markers over it.
+- **Color controls:** personalize the theme and choose separate colors for the digital hour, minute and second cards.
+- **A matched time display:** view analog and digital clocks together, with the digital readout in 24-hour format.
+- **Timers with live finish rings:** countdown and Pomodoro progress builds into a glowing, multicolor tracker as time runs down.
+- **Daily alarms:** schedule browser notifications from the controls. The browser must be running and notifications allowed for alarms to appear.
 - **Sky and astronomy:** starfield, constellations, moon phase, twilight, sunrise and sunset, calculated for your selected location.
 - **World clocks:** keep favorite cities and time zones in view.
-- **Focus tools:** stopwatch with laps, countdown and Pomodoro timer.
-- **Personal controls:** themes, accent colors, wallpapers, uploaded backgrounds, sounds, alarms, fullscreen and screen wake lock.
+- **More tools:** stopwatch with laps, fullscreen, screen wake lock, custom wallpapers and sound controls.
 - **Keyboard navigation:** switch between the ten clock and tool views with number keys `0`–`9`.
 
 <details>
