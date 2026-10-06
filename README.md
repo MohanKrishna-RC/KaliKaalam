@@ -12,7 +12,7 @@ Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog,
 
 <p align="center"><sub>Version 1.0.1 · Free download · No account required</sub></p>
 
-![KaliKaalam clock dashboard](store/01-hero.png)
+![KaliKaalam Analog + Digital watch view](store/01-hero.png)
 
 ## Make time your own
 
