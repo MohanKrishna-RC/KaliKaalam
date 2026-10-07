@@ -2,15 +2,15 @@
 
 ### Your personal clock, one click away.
 
-Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog, digital, LED and split-flap displays, astronomy, focus tools and world clocks. It leaves your browser's New Tab page exactly as you set it.
+Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog, digital, LED and split-flap displays, astronomy, focus tools and world clocks.
 
 <p align="center">
-  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-chrome-1.0.4.zip"><strong>⬇ Download for Chrome / Edge / Brave</strong></a>
+  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-chrome-1.0.5.zip"><strong>⬇ Download for Chrome / Edge / Brave</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-firefox-1.0.4.zip"><strong>⬇ Download for Firefox</strong></a>
+  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-firefox-1.0.5.zip"><strong>⬇ Download for Firefox</strong></a>
 </p>
 
-<p align="center"><sub>Version 1.0.4 · Free download · No account required</sub></p>
+<p align="center"><sub>Version 1.0.5 · Free download · No account required</sub></p>
 
 ![KaliKaalam Analog + Digital watch view](store/06-analog-digital-watch.png)
 
@@ -23,6 +23,10 @@ Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog,
 | **Make it yours** | **Stay in flow** |
 |:--|:--|
 | Put your own image on the analog dial, choose your card colors, and pick a wallpaper that suits your setup. | Use Pomodoro, countdown and stopwatch tools, with bright progress rings that show how close you are to finishing. |
+
+| **Watch time come alive** | **A stage for every view** |
+|:--|:--|
+| A rotating color portal orbits the clock, tiny sparks glimmer across the glass, and a soft ring pulses with each second. | Move among analog, digital, LED, split-flap, astronomy and world-clock views, all on the animated glass stage. |
 
 ## Make time your own
 
@@ -58,7 +62,7 @@ Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog,
 2. Open your browser's extensions page (`chrome://extensions`, `edge://extensions`, or `brave://extensions`).
 3. Turn on **Developer mode**.
 4. Select **Load unpacked** and choose the extracted folder containing `manifest.json`.
-5. Pin the KaliKaalam toolbar icon if you like, then click it and choose **Open KaliKaalam**. Your normal New Tab page remains unchanged.
+5. Pin the KaliKaalam toolbar icon if you like, then click it and choose **Open KaliKaalam**.
 
 ### Firefox
 
@@ -81,7 +85,7 @@ Read the [privacy policy](PRIVACY.md).
 
 ## Releases
 
-Current release: **1.0.4**. The clock panel now has a moving color sweep and pulsing edge glow. This release also includes editable alarm names, New Delhi as India's only listed city, and an animated ambient backdrop. Download the browser-specific ZIP above, or browse the [release downloads](https://github.com/MohanKrishna-RC/KaliKaalam/tree/main/release).
+Current release: **1.0.5**. The clock panel now has a rotating color portal, orbiting lights, glimmering sparks and a soft pulse on each second. This release also includes editable alarm names, New Delhi as India's only listed city, and an animated ambient backdrop. Download the browser-specific ZIP above, or browse the [release downloads](https://github.com/MohanKrishna-RC/KaliKaalam/tree/main/release).
 
 ## Feedback
 
