@@ -14,6 +14,16 @@ Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog,
 
 ![KaliKaalam Analog + Digital watch view](store/06-analog-digital-watch.png)
 
+## Built for your day
+
+| **Keep the screen awake** | **Wake on your schedule** |
+|:--|:--|
+| Turn on **Keep screen awake** to stop the display from sleeping while KaliKaalam is open. | Name your daily alarms. They can sound while the dashboard is open and send a browser notification when it is closed (while the browser is running and notifications are enabled). |
+
+| **Make it yours** | **Stay in flow** |
+|:--|:--|
+| Put your own image on the analog dial, choose your card colors, and pick a wallpaper that suits your setup. | Use Pomodoro, countdown and stopwatch tools, with bright progress rings that show how close you are to finishing. |
+
 ## Make time your own
 
 - **Four clock styles:** detailed analog, digital cards, glowing LED digits and an animated split-flap display.
