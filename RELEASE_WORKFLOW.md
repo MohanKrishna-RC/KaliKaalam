@@ -89,4 +89,4 @@ Do not use `git add -A` or push the entire local checkout. Do not create a downl
 
 ## Current release notes
 
-As of version 1.0.6, the page-wide ambient animation has been removed. The clock card's portal animation remains. Keep README wording clear about this distinction.
+As of version 1.0.7, the page-wide ambient animation has been removed. The clock card's portal animation remains. Keep README wording clear about this distinction.

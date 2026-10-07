@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+
+# public release repository: keep source out of accidental `git add -A`
+src/
+extension/
+scripts/
+package.json
+package-lock.json
+index.html
+postcss.config.js
+tailwind.config.js
+vite.config.js
+skills-lock.json
+.agents/
+
+# generated build output — regenerate with `npm run build:ext`
+dist/
+/release/*
+!/release/*.zip
+
+# generated icons (recreate with `npm run icons`)
+extension/icons/*.png
+
+# local noise
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.vscode/
+.idea/
+.opencode/
+*.local
+.env
+.env.*

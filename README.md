@@ -5,12 +5,12 @@
 Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog, digital, LED and split-flap displays, astronomy, focus tools and world clocks.
 
 <p align="center">
-  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-chrome-1.0.6.zip"><strong>⬇ Download for Chrome / Edge / Brave</strong></a>
+  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-chrome-1.0.7.zip"><strong>⬇ Download for Chrome / Edge / Brave</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-firefox-1.0.6.zip"><strong>⬇ Download for Firefox</strong></a>
+  <a href="https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-firefox-1.0.7.zip"><strong>⬇ Download for Firefox</strong></a>
 </p>
 
-<p align="center"><sub>Version 1.0.6 · Free download · No account required</sub></p>
+<p align="center"><sub>Version 1.0.7 · Free download · No account required</sub></p>
 
 ![KaliKaalam Analog + Digital watch view](store/06-analog-digital-watch.png)
 
@@ -58,7 +58,7 @@ Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog,
 
 ### Chrome, Edge, Brave and other Chromium browsers
 
-1. Download the [Chromium ZIP](https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-chrome-1.0.6.zip) and extract it.
+1. Download the [Chromium ZIP](https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-chrome-1.0.7.zip) and extract it.
 2. Open your browser's extensions page (`chrome://extensions`, `edge://extensions`, or `brave://extensions`).
 3. Turn on **Developer mode**.
 4. Select **Load unpacked** and choose the extracted folder containing `manifest.json`.
@@ -66,7 +66,7 @@ Open KaliKaalam from the browser toolbar whenever you want a clock deck: analog,
 
 ### Firefox
 
-1. Download and extract the [Firefox ZIP](https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-firefox-1.0.6.zip).
+1. Download and extract the [Firefox ZIP](https://github.com/MohanKrishna-RC/KaliKaalam/raw/refs/heads/main/release/kalikaalam-firefox-1.0.7.zip).
 2. Open `about:debugging#/runtime/this-firefox`.
 3. Select **Load Temporary Add-on…** and choose `manifest.json` from the extracted folder.
 
@@ -85,7 +85,7 @@ Read the [privacy policy](PRIVACY.md).
 
 ## Releases
 
-Current release: **1.0.6**. The page background is now still, while the animated portal remains inside the clock card. This release also includes editable alarm names and New Delhi as India's only listed city. Download the browser-specific ZIP above, or browse the [release downloads](https://github.com/MohanKrishna-RC/KaliKaalam/tree/main/release).
+Current release: **1.0.7**. Fixes include correct waxing and waning labels, smooth clock-hand and millisecond updates, wake-lock recovery, working sound volume, and sunrise/sunset dates for the selected time zone. Download the browser-specific ZIP above, or browse the [release downloads](https://github.com/MohanKrishna-RC/KaliKaalam/tree/main/release).
 
 ## Feedback
 
